@@ -1,0 +1,1149 @@
+{
+    "advancement": {
+        "challenge_move_1k": {
+            "title": "Harus Bergerak!",
+            "description": "Berjalan lebih dari 1 Kilometer (1.000 blok)"
+        },
+        "challenge_sprint_5k": {
+            "title": "Lari 5K!",
+            "description": "Berjalan lebih dari 5 Kilometer (5.000 blok)"
+        },
+        "challenge_sprint_50k": {
+            "title": "Lari Cepat 50K!",
+            "description": "Berjalan lebih dari 50 Kilometer (50.000 blok)"
+        },
+        "challenge_sprint_500k": {
+            "title": "Menjelajah Semesta!",
+            "description": "Berjalan lebih dari 500 Kilometer (500.000 blok)"
+        },
+        "challenge_sprint_marathon": {
+            "title": "Lari Maraton (secara harfiah)!",
+            "description": "Lari lebih dari 42.195 Blok!"
+        },
+        "challenge_place_1k": {
+            "title": "Pembangun Pemula!",
+            "description": "Tempatkan 1.000 Blok"
+        },
+        "challenge_place_5k": {
+            "title": "Pembangun Menengah!",
+            "description": "Tempatkan 5.000 Blok"
+        },
+        "challenge_place_50k": {
+            "title": "Pembangun Mahir!",
+            "description": "Tempatkan 50.000 Blok"
+        },
+        "challenge_place_500k": {
+            "title": "Pembuat Utama!",
+            "description": "Tempatkan 500.000 Blok"
+        },
+        "challenge_place_5m": {
+            "title": "Akolit Simetri!",
+            "description": "REALITAS ADALAH TAMAN BERMAINMU! (5 Juta Blok)"
+        },
+        "challenge_chop_1k": {
+            "title": "Penebang Pemula!",
+            "description": "Tebang 1.000 Blok"
+        },
+        "challenge_chop_5k": {
+            "title": "Penebang Menengah!",
+            "description": "Tebang 5.000 Blok"
+        },
+        "challenge_chop_50k": {
+            "title": "Penebang Mahir!",
+            "description": "Tebang 50.000 Blok"
+        },
+        "challenge_chop_500k": {
+            "title": "Penebang Utama!",
+            "description": "Tebang 500.000 Blok"
+        },
+        "challenge_chop_5m": {
+            "title": "Jackson si Anjing",
+            "description": "Anjing terbaik! (5 Juta Blok)"
+        },
+        "challenge_block_1k": {
+            "title": "Hampir Menangkis!",
+            "description": "Tangkis 1.000 Serangan"
+        },
+        "challenge_block_5k": {
+            "title": "Menangkis Itu Menyenangkan!",
+            "description": "Tangkis 5.000 Serangan"
+        },
+        "challenge_block_50k": {
+            "title": "Menangkis adalah Hidupku!",
+            "description": "Tangkis 50.000 Serangan"
+        },
+        "challenge_block_500k": {
+            "title": "Menangkis adalah Tujuanku!",
+            "description": "Tangkis 500.000 Serangan"
+        },
+        "challenge_block_5m": {
+            "title": "Die Hand Die Verletzt",
+            "description": "Tangkis 5.000.000 Serangan"
+        },
+        "challenge_brew_1k": {
+            "title": "Alkemis Pemula!",
+            "description": "Konsumsi 1.000 Ramuan"
+        },
+        "challenge_brew_5k": {
+            "title": "Alkemis Menengah!",
+            "description": "Konsumsi 5.000 Ramuan"
+        },
+        "challenge_brew_50k": {
+            "title": "Alkemis Mahir!",
+            "description": "Konsumsi 50.000 Ramuan"
+        },
+        "challenge_brew_500k": {
+            "title": "Alkemis Utama!",
+            "description": "Konsumsi 500.000 Ramuan"
+        },
+        "challenge_brew_5m": {
+            "title": "Sang Alkemis",
+            "description": "Konsumsi 5.000.000 Ramuan"
+        },
+        "challenge_brewsplash_1k": {
+            "title": "Penyiram Ramuan Pemula!",
+            "description": "Siram 1.000 Ramuan"
+        },
+        "challenge_brewsplash_5k": {
+            "title": "Penyiram Ramuan Menengah!",
+            "description": "Siram 5.000 Ramuan"
+        },
+        "challenge_brewsplash_50k": {
+            "title": "Penyiram Ramuan Mahir!",
+            "description": "Siram 50.000 Ramuan"
+        },
+        "challenge_brewsplash_500k": {
+            "title": "Penyiram Ramuan Utama!",
+            "description": "Siram 500.000 Ramuan"
+        },
+        "challenge_brewsplash_5m": {
+            "title": "Sang Penyiram Ahli",
+            "description": "Siram 5.000.000 Ramuan"
+        },
+        "challenge_craft_1k": {
+            "title": "Pengrajin Cerdas!",
+            "description": "Buat 1.000 Item"
+        },
+        "challenge_craft_5k": {
+            "title": "Pengrajin Hebat!",
+            "description": "Buat 5.000 Item"
+        },
+        "challenge_craft_50k": {
+            "title": "Pengrajin Setia!",
+            "description": "Buat 50.000 Item"
+        },
+        "challenge_craft_500k": {
+            "title": "Pengrajin Berisik!",
+            "description": "Buat 500.000 Item"
+        },
+        "challenge_craft_5m": {
+            "title": "Pengrajin Bencana",
+            "description": "Buat 5.000.000 Item"
+        },
+        "challenge_enchant_1k": {
+            "title": "Penyihir Pemula!",
+            "description": "Sihrkan 1.000 Item"
+        },
+        "challenge_enchant_5k": {
+            "title": "Penyihir Menengah!",
+            "description": "Sihrkan 5.000 Item"
+        },
+        "challenge_enchant_50k": {
+            "title": "Penyihir Mahir!",
+            "description": "Sihrkan 50.000 Item"
+        },
+        "challenge_enchant_500k": {
+            "title": "Penyihir Utama!",
+            "description": "Sihrkan 500.000 Item"
+        },
+        "challenge_enchant_5m": {
+            "title": "Penyihir Misterius",
+            "description": "Sihrkan 5.000.000 Item"
+        },
+        "challenge_excavate_1k": {
+            "title": "Penggali Pemula!",
+            "description": "Menggali 1.000 Blok"
+        },
+        "challenge_excavate_5k": {
+            "title": "Penggali Menengah!",
+            "description": "Menggali 5.000 Blok"
+        },
+        "challenge_excavate_50k": {
+            "title": "Penggali Mahir!",
+            "description": "Menggali 50.000 Blok"
+        },
+        "challenge_excavate_500k": {
+            "title": "Penggali Utama!",
+            "description": "Menggali 500.000 Blok"
+        },
+        "challenge_excavate_5m": {
+            "title": "Penggali Misterius",
+            "description": "Menggali 5.000.000 Blok"
+        },
+        "horrible_person": {
+            "title": "Kamu Orang yang Mengerikan",
+            "description": "Tak terbayangkan, sungguh"
+        },
+        "challenge_turtle_egg_smasher": {
+            "title": "Penghancur Telur Penyu!",
+            "description": "Hancurkan 100 telur penyu"
+        },
+        "challenge_turtle_egg_annihilator": {
+            "title": "Pembasmi Telur Penyu!",
+            "description": "Hancurkan 500 telur penyu"
+        },
+        "challenge_novice_hunter": {
+            "title": "Pemburu Pemula!",
+            "description": "Bunuh 100 makhluk"
+        },
+        "challenge_intermediate_hunter": {
+            "title": "Pemburu Menengah!",
+            "description": "Bunuh 500 makhluk"
+        },
+        "challenge_advanced_hunter": {
+            "title": "Pemburu Mahir!",
+            "description": "Bunuh 5.000 makhluk"
+        },
+        "challenge_creeper_conqueror": {
+            "title": "Penakluk Creeper!",
+            "description": "Bunuh 50 creeper"
+        },
+        "challenge_creeper_annihilator": {
+            "title": "Penghancur Creeper!",
+            "description": "Bunuh 200 creeper"
+        },
+        "challenge_pickaxe_1k": {
+            "title": "Penambang Pemula",
+            "description": "Hancurkan 1000 Blok"
+        },
+        "challenge_pickaxe_5k": {
+            "title": "Penambang Terampil",
+            "description": "Hancurkan 5000 Blok"
+        },
+        "challenge_pickaxe_50k": {
+            "title": "Penambang Ahli",
+            "description": "Hancurkan 50.000 Blok"
+        },
+        "challenge_pickaxe_500k": {
+            "title": "Penambang Master",
+            "description": "Hancurkan 500.000 Blok"
+        },
+        "challenge_pickaxe_5m": {
+            "title": "Penambang Legendaris",
+            "description": "Hancurkan 5.000.000 Blok"
+        }
+    },
+    "items": {
+        "boundenderperal": {
+            "name": "Kunci Portal Relik",
+            "usage1": "Shift + Klik Kiri untuk mengikat",
+            "usage2": "Klik Kanan untuk mengakses Inventori yang terikat"
+        },
+        "boundeyeofender": {
+            "name": "Jangkar Mata",
+            "usage1": "Klik Kanan untuk menggunakan dan teleport ke lokasi terikat",
+            "usage2": "Shift + Klik Kiri untuk mengikat ke blok"
+        },
+        "boundredstonetorch": {
+            "name": "Remote Redstone",
+            "usage1": "Klik Kanan untuk membuat pulsa Redstone 1-Tick",
+            "usage2": "Shift + Klik Kiri pada Blok 'Target' untuk mengikat"
+        },
+        "boundsnowball": {
+            "name": "Jebakan Jaring!",
+            "usage1": "Lempar untuk membuat jebakan jaring sementara di lokasi"
+        }
+    },
+    "snippets": {
+        "gui": {
+            "level": "Level",
+            "knowledge": "pengetahuan",
+            "powerused": "Kekuatan Digunakan",
+            "notlearned": "Belum Dipelajari",
+            "xp": "XP ke",
+            "welcome": "Selamat Datang!",
+            "welcomeback": "Selamat Datang Kembali!",
+            "xpbonusfortime": "XP untuk",
+            "maxabilitypower": "Kekuatan Kemampuan Maksimum",
+            "unlockthisbyclicking": "Buka ini dengan Klik Kanan: ",
+            "back": "Kembali",
+            "unlearnall": "Lupakan semua",
+            "unlearnedall": "Semua sudah dilupakan"
+        },
+        "adaptmenu": {
+            "maynotunlearn": "ANDA TIDAK BISA MELUPAKAN",
+            "mayunlearn": "ANDA DAPAT BELAJAR/MELUPAKAN",
+            "knowledgecost": "Biaya Pengetahuan",
+            "knowledgeavailable": "Pengetahuan Tersedia",
+            "alreadylearned": "Sudah Dipelajari",
+            "unlearnrefund": "Klik untuk Melupakan & Mengembalikan",
+            "norefunds": "HARDCORE, TIDAK ADA PENGEMBALIAN",
+            "knowledge": "pengetahuan",
+            "clicklearn": "Klik untuk Belajar",
+            "noknowledge": "(Anda tidak memiliki Pengetahuan)",
+            "youonlyhave": "Anda hanya memiliki",
+            "howtolevelup": "Tingkatkan keterampilan untuk meningkatkan kekuatan maksimum Anda.",
+            "notenoughpower": "Tidak cukup kekuatan! Setiap Level Kemampuan membutuhkan 1 kekuatan.",
+            "power": "kekuatan",
+            "powerdrain": "Pengurasan Kekuatan",
+            "learned": "Belajar ",
+            "unlearned": "Dilupakan ",
+            "activatorblock": "Rak Buku"
+        },
+        "knowledgeorb": {
+            "contains": "berisi",
+            "knowledge": "pengetahuan",
+            "rightclick": "Klik Kanan",
+            "togainknowledge": "untuk mendapatkan pengetahuan ini",
+            "knowledgeorb": "Orb Pengetahuan"
+        },
+        "experienceorb": {
+            "contains": "berisi",
+            "xp": "Pengalaman",
+            "rightclick": "Klik Kanan",
+            "togainxp": "untuk mendapatkan pengalaman ini",
+            "xporb": "Orb Pengalaman"
+        }
+    },
+    "skill": {
+        "agility": {
+            "name": "Kelincahan",
+            "icon": "⇉",
+            "description": "Kelincahan adalah kemampuan untuk bergerak cepat dan luwes di hadapan rintangan."
+        },
+        "architect": {
+            "name": "Arsitek",
+            "icon": "⬧",
+            "description": "Struktur adalah blok bangunan dunia. Realitas ada di tangan Anda, milik Anda untuk dikendalikan."
+        },
+        "axes": {
+            "name": "Kapak",
+            "icon": "\uD83E\uDE93",
+            "description1": "Mengapa menebang pohon, jika Anda bisa menebang ",
+            "description2": "benda",
+            "description3": "sebagai gantinya, hasil akhirnya sama!"
+        },
+        "brewing": {
+            "name": "Peracikan",
+            "icon": "❦",
+            "description": "Gelembung Ganda, Gelembung Triple, Gelembung Quadruple- Aku tetap tidak bisa memasukkan ramuan ini ke dalam kuali"
+        },
+        "blocking": {
+            "name": "Pertahanan",
+            "icon": "\uD83D\uDEE1",
+            "description": "Kayu dan batu tidak akan mematahkan tulangmu, tapi perisai akan."
+        },
+        "crafting": {
+            "name": "Kerajinan",
+            "icon": "⌂",
+            "description": "Jika tidak ada lagi potongan yang tersisa untuk ditempatkan, mengapa tidak membuat yang lain?"
+        },
+        "discovery": {
+            "name": "Penemuan",
+            "icon": "⚛",
+            "description": "Saat persepsi Anda berkembang, pikiran Anda terurai untuk menemukan apa yang tidak Anda ketahui."
+        },
+        "enchanting": {
+            "name": "Sihir",
+            "icon": "♰",
+            "description": "Apa yang sedang Anda bicarakan? Ramalan, visi, omong kosong yang takhayul?"
+        },
+        "excavation": {
+            "name": "Penggalian",
+            "icon": "ᛳ",
+            "description": "Menggali Lubang..."
+        },
+        "herbalism": {
+            "name": "Herbal",
+            "icon": "⚘",
+            "description": "Aku tidak bisa menemukan tanaman, tapi aku bisa menemukan beberapa biji dan- apakah itu... Ganja?"
+        },
+        "hunter": {
+            "name": "Pemburu",
+            "icon": "☠",
+            "description": "Berburu adalah tentang perjalanan, bukan hasil akhirnya."
+        },
+        "nether": {
+            "name": "Nether",
+            "icon": "₪",
+            "description": "Dari kedalaman Nether itu sendiri."
+        },
+        "pickaxe": {
+            "name": "Cangkul",
+            "icon": "⛏",
+            "description": "Kurcaci adalah penambang, tapi aku belajar satu dua hal selama ini. AKU ORANG SWEDIA"
+        },
+        "ranged": {
+            "name": "Jarak Jauh",
+            "icon": "🏹",
+            "description": "Jarak adalah kunci kemenangan, dan kunci bertahan hidup."
+        },
+        "rift": {
+            "name": "Rift",
+            "icon": "❍",
+            "description": "Rift adalah harness beracun, tetapi Anda telah menguasainya."
+        },
+        "seaborne": {
+            "name": "Berbasis Laut",
+            "icon": "\uD83C\uDFA3",
+            "description": "Dengan kemampuan ini, Anda bisa mengendalikan keajaiban air."
+        },
+        "stealth": {
+            "name": "Mengendap",
+            "icon": "☯",
+            "description": "Seni tidak terlihat. Berjalanlah dalam bayangan."
+        },
+        "swords": {
+            "name": "Pedang",
+            "icon": "⚔",
+            "description": "Dengan kekuatan GreyStone!"
+        },
+        "taming": {
+            "name": "Menjinakkan",
+            "icon": "♥",
+            "description": "Burung beo dan lebah... dan Anda?"
+        },
+        "tragoul": {
+            "name": "TragOul",
+            "icon": "\uD83D\uDDE1",
+            "description": "Darah mengalir melalui pembuluh alam semesta. Dikekang oleh tangan Anda."
+        },
+        "chronos": {
+            "name": "Chronos",
+            "icon": "⏳",
+            "description": "Putar Jam alam semesta, rasakan alirannya. Hancurkan jamnya, jadilah bagian darinya."
+        },
+        "unarmed": {
+            "name": "Tanpa Senjata",
+            "icon": "»",
+            "description": "Tanpa senjata bukan berarti tanpa kekuatan."
+        }
+    },
+    "agility": {
+        "armorup": {
+            "name": "Tambahan Armor",
+            "description": "Dapatkan armor lebih banyak semakin lama Anda berlari!",
+            "lore1": "Armor Maks",
+            "lore2": "Durasi Armor-Up"
+        },
+        "superjump": {
+            "name": "Lompatan Super",
+            "description": "Keunggulan Ketinggian Ekstrem.",
+            "lore1": "Tinggi Lompatan Maks",
+            "lore2": "Sneak + Lompatan untuk Lompatan Super!"
+        },
+        "walljump": {
+            "name": "Lompatan Dinding",
+            "description": "Tahan shift di udara di dekat dinding untuk menempel dan melompat!",
+            "lore1": "Jumlah Lompatan Maks",
+            "lore2": "Tinggi Lompatan"
+        },
+        "windup": {
+            "name": "Mengencangkan",
+            "description": "Dapatkan kecepatan semakin lama Anda berlari!",
+            "lore1": "Kecepatan Maks",
+            "lore2": "Durasi Pengencangan"
+        }
+    },
+    "architect": {
+        "foundation": {
+            "name": "Fondasi Ajaib",
+            "description": "Anda dapat berjongkok dan menciptakan fondasi sementara di bawah Anda!",
+            "lore1": "Menciptakan secara ajaib: ",
+            "lore2": "Blok di bawah Anda!"
+        },
+        "glass": {
+            "name": "Kaca Silk-Touch",
+            "description": "Anda dapat mencegah hilangnya blok kaca saat dihancurkan dengan tangan kosong!",
+            "lore1": "Tangan Anda mendapat silk-touch untuk Kaca"
+        },
+        "wirelessredstone": {
+            "name": "Remote Redstone",
+            "description": "Menggunakan obor redstone untuk mengaktifkan redstone dari jarak jauh!",
+            "lore1": "Target + Obor Redstone + Enderpearl = 1 Remote Redstone"
+        },
+        "placement": {
+            "name": "Tongkat Pembangun",
+            "description": "Dapat menempatkan beberapa blok sekaligus, aktifkan Sneak, tahan blok yang sesuai, dan tempatkan! Ingatlah bahwa Anda mungkin perlu bergerak sedikit untuk mengaktifkan batas!",
+            "lore1": "Anda butuh",
+            "lore2": "blok di tangan Anda untuk menempatkan ini",
+            "lore3": "Tongkat Pembangun Bahan"
+        }
+    },
+    "axe": {
+        "chop": {
+            "name": "Tebasan Kapak",
+            "description": "Tebang pohon dengan klik kanan di log dasar!",
+            "lore1": "Jumlah Blok per Tebasan",
+            "lore2": "Cooldown Tebasan",
+            "lore3": "Ketahanan Alat"
+        },
+        "logswap": {
+            "name": "Penukar Log Lucy",
+            "description": "Ubah jenis log di Meja Kerajinan!",
+            "lore1": "8 Log apapun + 1 bibit = 8 log dari jenis bibit tersebut"
+        },
+        "droptoinventory": {
+            "name": "Kapak Jatuh-ke-Inventory"
+        },
+        "groundsmash": {
+            "name": "Tebasan Tanah Kapak",
+            "description": "Melompat, lalu jongkok dan serang semua musuh di sekitar.",
+            "lore1": "Kerusakan",
+            "lore2": "Radius Blok",
+            "lore3": "Kekuatan",
+            "lore4": "Cooldown Tebasan"
+        },
+        "leafminer": {
+            "name": "Penambang Daun",
+            "description": "Memungkinkan Anda untuk menghancurkan daun secara massal!",
+            "lore1": "Sneak, dan tambang DAUN",
+            "lore2": "jangkauan Penambangan Daun",
+            "lore3": "Anda tidak akan mendapatkan hasil dari daun (Pencegahan Eksploitasi)"
+        },
+        "woodminer": {
+            "name": "Penambang Kayu",
+            "description": "Memungkinkan Anda untuk menghancurkan kayu secara massal!",
+            "lore1": "Sneak, dan tambang KAYU/LOG ( Bukan Papan )",
+            "lore2": "jangkauan Penambangan Kayu",
+            "lore3": "Bekerja dengan Jatuh ke inventaris"
+        }
+    },
+    "brewing": {
+        "lingering": {
+            "name": "Ramuan Berlama-lama",
+            "description": "Ramuan yang diseduh bertahan lebih lama!",
+            "lore1": "Durasi",
+            "lore2": "Durasi"
+        },
+        "superheated": {
+            "name": "Ramuan Panas Ekstra",
+            "description": "Stand penyeduhan bekerja lebih cepat saat lebih panas.",
+            "lore1": "Per Blok Api di Sekitar",
+            "lore2": "Per Blok Lava di Sekitar"
+        },
+        "darkness": {
+            "name": "Botol Kegelapan",
+            "description": "Tidak yakin kenapa Anda membutuhkannya, tapi ini dia!",
+            "lore1": "Ramuan NightVision + Beton Hitam = Ramuan Kegelapan (30 detik)",
+            "lore2": "Perlu dicatat bahwa ini mencegah pengguna berlari!"
+        },
+        "haste": {
+            "name": "Botol Kecepatan",
+            "description": "Saat Efisiensi tidak cukup",
+            "lore1": "Ramuan Kecepatan + Pecahan Amethyst = Ramuan Kecepatan (60 detik)",
+            "lore2": "Ramuan Kecepatan + Blok Amethyst = Ramuan Kecepatan-2 (30 detik)"
+        },
+        "absorption": {
+            "name": "Botol Absorpsi",
+            "description": "Perkuat tubuh!",
+            "lore1": "Penyembuhan Instan + Quartz = Ramuan Absorpsi (60 detik)",
+            "lore2": "Penyembuhan Instan + Blok Quartz = Ramuan Absorpsi-2 (30 detik)"
+        },
+        "fatigue": {
+            "name": "Botol Kelelahan",
+            "description": "Lemahkan tubuh!",
+            "lore1": "Ramuan Kelemahan + Bola Lendir = Ramuan Kelelahan (30 detik)",
+            "lore2": "Ramuan Kelemahan + Blok Lendir = Ramuan Kelelahan-2 (15 detik)"
+        },
+        "hunger": {
+            "name": "Botol Kelaparan",
+            "description": "Beri makan yang tak terpuaskan!",
+            "lore1": "Ramuan Awkward + Daging Busuk = Ramuan Kelaparan (30 detik)",
+            "lore2": "Ramuan Kelemahan + Daging Busuk = Ramuan Kelaparan-3 (15 detik)"
+        },
+        "nausea": {
+            "name": "Mual dalam Botol",
+            "description": "Kamu membuatku mual!",
+            "lore1": "Ramuan Canggung + Jamur Cokelat = Ramuan Mual (16 detik)",
+            "lore2": "Ramuan Canggung + Jamur Merah = Ramuan Mual-2 (8 detik)"
+        },
+        "blindness": {
+            "name": "Kebutaan dalam Botol",
+            "description": "Kamu adalah orang yang mengerikan...",
+            "lore1": "Ramuan Canggung + Kantung Tinta = Ramuan Kebutaan (30 detik)",
+            "lore2": "Ramuan Canggung + Kantung Tinta Bersinar = Ramuan Kebutaan-2 (15 detik)"
+        },
+        "resistance": {
+            "name": "Perlawanan dalam Botol",
+            "description": "Pertahanan terbaik!",
+            "lore1": "Ramuan Canggung + Ingot Besi = Ramuan Perlawanan (60 detik)",
+            "lore2": "Ramuan Canggung + Blok Besi = Ramuan Perlawanan-2 (30 detik)"
+        },
+        "healthboost": {
+            "name": "Kehidupan dalam Botol",
+            "description": "Saat Kesehatan Maksimum tidak cukup...",
+            "lore1": "Ramuan Penyembuhan Instan + Apel Emas = Ramuan Penambah Kesehatan (120 detik)",
+            "lore2": "Ramuan Penyembuhan Instan + Apel Emas Bertuah = Ramuan Penambah Kesehatan-2 (120 detik)"
+        },
+        "decay": {
+            "name": "Pembusukan dalam Botol",
+            "description": "Siapa sangka Pembusukan bisa begitu berguna?",
+            "lore1": "Ramuan Kelemahan + Kentang Beracun = Ramuan Layu (16 detik)",
+            "lore2": "Ramuan Kelemahan + Akar Merah = Ramuan Layu-2 (8 detik)"
+        },
+        "saturation": {
+            "name": "Kenyang dalam Botol",
+            "description": "Aku bahkan tidak lapar...",
+            "lore1": "Ramuan Regenerasi + Kentang Panggang = Ramuan Kenyang",
+            "lore2": "Ramuan Regenerasi + Jerami = Ramuan Kenyang-2"
+        }
+    },
+    "blocking": {
+        "chainarmorer": {
+            "name": "Rantai Mephistopheles",
+            "description": "Memungkinkan kamu untuk membuat Armor Rantai",
+            "lore1": "Resep pembuatan sama seperti yang lain, tetapi menggunakan pecahan besi"
+        },
+        "horsearmorer": {
+            "name": "Buat Armor Kuda",
+            "description": "Memungkinkan kamu membuat Armor Kuda",
+            "lore1": "Lingkari pelana dengan material yang ingin kamu gunakan untuk membuat armor"
+        },
+        "saddlecrafter": {
+            "name": "Buat Pelana",
+            "description": "Buat Pelana dengan Kulit",
+            "lore1": "Resep: 5 Kulit:"
+        },
+        "multiarmor": {
+            "name": "Multi-Armor",
+            "description": "Gabungkan Elytra dengan Armor",
+            "lore1": "Skill luar biasa untuk bepergian.",
+            "lore2": "Gabungkan dan ubah Armor/Elytra secara dinamis!",
+            "lore3": "Untuk menggabungkan, klik shift item di atas item lain di inventaris.",
+            "lore4": "Untuk memisahkan Armor, Jatuhkan saat Menyelinap, dan akan terurai.",
+            "lore5": "Jika MultiArmor hancur, semua item di dalamnya hilang.",
+            "lore6": "Aku tidak butuh armor, itu mengecewakanku..."
+        }
+    },
+    "crafting": {
+        "deconstruction": {
+            "name": "Dekonstruksi",
+            "description": "Dekonstruksi blok & item menjadi komponen dasar yang dapat diambil!",
+            "lore1": "Jatuhkan item apapun ke tanah.",
+            "lore2": "Kemudian, Menyelinap dan Klik-Kanan dengan Gunting"
+        },
+        "xp": {
+            "name": "Pengalaman Kerajinan",
+            "description": "Dapatkan XP pasif saat membuat",
+            "lore1": "Dapatkan XP saat membuat"
+        },
+        "reconstruction": {
+            "name": "Rekonstruksi Bijih",
+            "description": "Buat ulang bijih dari komponen dasarnya!",
+            "lore1": "8 Hasil Tambang dan 1 Penampung = 1 Bijih (tanpa bentuk)",
+            "lore2": "Hasil Tambang harus dilebur (jika berlaku)",
+            "lore3": "Tidak termasuk: Potongan, Kuarsa, dan Zamrud dll...",
+            "lore4": "Penampung = Encasing. Misalnya: Batu, Netherrack, Deepslate"
+        },
+        "leather": {
+            "name": "Kulit Buatan",
+            "description": "Buat Kulit dari Daging Busuk",
+            "lore1": "Cukup lemparkan (daging busuk) di api unggun!"
+        },
+        "backpacks": {
+            "name": "Ransel Ala Boutilier!",
+            "description": "Ini membawa Mojang Bundle ke dalam permainan!",
+            "lore1": "Kamu harus berada di Survival untuk menggunakannya",
+            "lore2": "XLX : Kulit, Tali, Kulit",
+            "lore3": "XSX : Kulit, Kotak Tong, Kulit",
+            "lore4": "XCX : Kulit, Peti, Kulit"
+        },
+        "stations": {
+            "name": "Meja Portabel!",
+            "description": "Gunakan meja di telapak tanganmu!",
+            "lore2": "BARANG APAPUN YANG TERTINGGAL DI MEJA SAAT DITUTUP AKAN HILANG SELAMANYA!",
+            "lore3": "Meja valid: Anvil, Pembuatan, Batu Asah, Peta, Pemotong Batu, Tenun"
+        },
+        "skulls": {
+            "name": "Kepala Buatan!",
+            "description": "Gunakan Bahan untuk Membuat Kepala Mob!",
+            "lore1": "Lingkari Blok Tulang dengan berikut untuk mendapatkan kepala:",
+            "lore2": "Zombie: Daging Busuk",
+            "lore3": "Skeleton: Tulang",
+            "lore4": "Creeper: Bubuk Mesiu",
+            "lore5": "Wither: Bata Nether",
+            "lore6": "Naga: Nafas Naga"
+        }
+    },
+    "discovery": {
+        "armor": {
+            "name": "Armor Dunia",
+            "description": "Armor pasif berdasarkan kekerasan blok di sekitarnya.",
+            "lore1": "Armor Pasif",
+            "lore2": "Berdasarkan kekerasan blok di sekitarnya",
+            "lore3": "Kekuatan Armor:"
+        },
+        "unity": {
+            "name": "Kesatuan Eksperimental",
+            "description": "Mengumpulkan Bola Pengalaman menambah XP ke skill acak.",
+            "lore1": "XP",
+            "lore2": "Per Bola"
+        },
+        "resist": {
+            "name": "Perlawanan Eksperimental",
+            "description": "Gunakan pengalaman untuk mengurangi kerusakan yang diterima dari semua sumber",
+            "lore0": "Ini hanya terjadi sekali setiap 15 detik",
+            "lore1": "Kerusakan Berkurang",
+            "lore2": "pengalaman yang terkuras"
+        },
+        "villager": {
+            "name": "Daya Tarik Villager",
+            "description": "Memungkinkan Anda mendapatkan perdagangan yang lebih baik dengan villager!",
+            "lore1": "Ini mengonsumsi XP per interaksi dengan Villager",
+            "lore2": "Kemungkinan per interaksi untuk mengonsumsi XP, dan meningkatkan perdagangan",
+            "lore3": "diperlukan pengurangan XP per interaksi"
+        }
+    },
+    "enchanting": {
+        "lapisreturn": {
+            "name": "Pengembalian Lapis",
+            "description": "Dengan biaya 1 level XP lagi, memiliki kemungkinan untuk memberi Anda lapis gratis sebagai pengganti",
+            "lore1": "Untuk setiap level, meningkatkan biaya enchantment sebesar 1, tetapi dapat mengembalikan hingga 3 Lapis"
+        },
+        "quickenchant": {
+            "name": "Enchant Cepat-Klik",
+            "description": "Enchant item dengan mengklik buku enchant langsung pada mereka.",
+            "lore1": "Level Gabungan Maksimal",
+            "lore2": "Tidak dapat mengenchant item dengan lebih dari ",
+            "lore3": "kekuatan"
+        },
+        "return": {
+            "name": "Pengembalian XP",
+            "description": "XP enchanting dikembalikan kepada Anda saat Anda mengenchant item.",
+            "lore1": "Pengalaman yang digunakan memiliki kemungkinan untuk dikembalikan saat Anda mengenchant item",
+            "lore2": "Pengalaman per Enchant"
+        }
+    },
+    "excavation": {
+        "haste": {
+            "name": "Penggali Cepat",
+            "description": "Ini akan mempercepat proses penggalian, dengan HASTE!",
+            "lore1": "Dapatkan Haste saat menggali",
+            "lore2": "x Level haste saat Anda mulai menambang blok APA SAJA."
+        },
+        "spelunker": {
+            "name": "Penjelajah Super-Penglihatan!",
+            "description": "Lihat Ores dengan mata Anda, tetapi melalui tanah!",
+            "lore1": "Ore di tangan kiri, Glowberries di tangan utama, dan Berjongkok!",
+            "lore2": "Jangkauan Blok: ",
+            "lore3": "Mengonsumsi Glowberry saat digunakan"
+        },
+        "droptoinventory": {
+            "name": "Jatuh-Ke-Inventori Sekop"
+        },
+        "omnitool": {
+            "name": "OMNI - T.O.O.L.",
+            "description": "Leatherman mewah yang dirancang berlebihan",
+            "lore1": "Mungkin yang paling kuat memungkinkan Anda untuk",
+            "lore2": "menggabungkan dan mengubah alat secara dinamis sesuai kebutuhan.",
+            "lore3": "Untuk menggabungkan, klik kanan item di atas yang lain di inventori Anda.",
+            "lore4": "Untuk melepas alat, Jatuhkan item saat Menyelinap, dan itu akan dibongkar.",
+            "lore5": "Anda tidak dapat merusak alat di leatherman ini, tetapi tidak dapat menggunakan alat yang rusak",
+            "lore6": "jumlah item yang bisa digabungkan.",
+            "lore7": "Anda bisa menggunakan lima atau enam alat, atau hanya satu!"
+        }
+    },
+    "herbalism": {
+        "growthaura": {
+            "name": "Aura Pertumbuhan",
+            "description": "Menumbuhkan alam di sekitar Anda dalam aura",
+            "lore1": "Radius Blok",
+            "lore2": "Kekuatan Aura Pertumbuhan",
+            "lore3": "Biaya Makanan"
+        },
+        "hippo": {
+            "name": "Herbalist's Hippo",
+            "description": "Mengonsumsi makanan memberi Anda lebih banyak saturasi",
+            "lore1": "Makanan) poin saturasi tambahan pada konsumsi"
+        },
+        "myconid": {
+            "name": "Myconid Herbalist",
+            "description": "Memungkinkan Anda membuat Mycelium",
+            "lore1": "Dirt dan Brown & Red Mushroom akan membuat Mycelium."
+        },
+        "terralid": {
+            "name": "Terralid Herbalist",
+            "description": "Memungkinkan Anda membuat Blok Rumput",
+            "lore1": "Tiga Biji, di atas 3 Dirt, akan membuat 3 Blok Rumput."
+        },
+        "cobweb": {
+            "name": "Pembuat Jaring",
+            "description": "Memungkinkan Anda membuat Jaring di Meja Kerajinan",
+            "lore1": "Sembilan Tali akan membuat satu Jaring."
+        },
+        "mushroomblocks": {
+            "name": "Pembuat Jamur",
+            "description": "Memungkinkan Anda membuat Blok Jamur di Meja Kerajinan",
+            "lore1": "Empat Jamur untuk membuat blok, atau blok untuk membuat batang."
+        },
+        "droptoinventory": {
+            "name": "Jatuh-Ke-Inventori Cangkul"
+        },
+        "hungryshield": {
+            "name": "Perisai Lapar",
+            "description": "Ambil kerusakan pada kelaparan sebelum kesehatan.",
+            "lore1": "Ditahan oleh Kelaparan"
+        },
+        "luck": {
+            "name": "Keberuntungan Herbalist",
+            "description": "Saat Anda memecah Rumput/Bunga, ada kemungkinan mendapatkan item acak",
+            "lore0": "Bunga = Makanan, dan Rumput = Biji",
+            "lore1": "Kemungkinan mendapatkan item dari memecah Bunga",
+            "lore2": "Kemungkinan mendapatkan item dari memecah Rumput"
+        },
+        "replant": {
+            "name": "Panen & Tanam Ulang",
+            "description": "Klik kanan tanaman dengan cangkul untuk memanen & menanam ulang.",
+            "lore1": "Radius Blok Tanam Ulang"
+        }
+    },
+    "hunter": {
+        "adrenaline": {
+            "name": "Adrenalin",
+            "description": "Beri lebih banyak kerusakan saat kesehatan Anda rendah (Serangan)",
+            "lore1": "Kerusakan Maksimal"
+        },
+        "penalty": {
+            "name": "",
+            "description": "",
+            "lore1": "Anda akan Mendapatkan tumpukan Racun jika kehabisan kelaparan"
+        },
+        "droptoinventory": {
+            "name": "Jatuh-Ke-Inventori Barang",
+            "description": "Saat Anda Membunuh sesuatu / Memecahkan blok dengan pedang, item yang dijatuhkan akan dipindahkan ke inventori Anda",
+            "lore1": "Setiap kali item dijatuhkan dari mob/blok yang Anda pecahkan, item itu akan masuk ke inventori Anda jika memungkinkan."
+        },
+        "invisibility": {
+            "name": "Langkah Menghilang",
+            "description": "Saat Anda dipukul, Anda mendapatkan efek tak terlihat dengan biaya kelaparan",
+            "lore1": "Dapatkan efek tak terlihat pasif saat dipukul",
+            "lore2": "x tumpukan tak terlihat selama 3 detik saat dipukul",
+            "lore3": "x tumpukan kelaparan",
+            "lore4": "Durasi dan pengganda tumpukan kelaparan.",
+            "lore5": "Durasi tak terlihat"
+        },
+        "jumpboost": {
+            "name": "Ketinggian Hunter",
+            "description": "Saat Anda dipukul, Anda mendapatkan peningkatan lompatan dengan biaya kelaparan",
+            "lore1": "Dapatkan peningkatan lompatan pasif saat dipukul",
+            "lore2": "x tumpukan peningkatan lompatan selama 3 detik saat dipukul",
+            "lore3": "x tumpukan kelaparan",
+            "lore4": "Durasi dan pengganda tumpukan kelaparan.",
+            "lore5": "Pengganda tumpukan peningkatan lompatan, bukan durasi."
+        },
+        "luck": {
+            "name": "Keberuntungan Pemburu",
+            "description": "Ketika Anda diserang, Anda mendapatkan keberuntungan dengan mengorbankan rasa lapar",
+            "lore1": "Dapatkan keberuntungan pasif saat diserang",
+            "lore2": "x Tumpukan keberuntungan selama 3 detik saat terkena",
+            "lore3": "x Tumpukan rasa lapar",
+            "lore4": "Durasi dan pengganda tumpukan rasa lapar.",
+            "lore5": "Pengganda tumpukan keberuntungan, bukan durasinya."
+        },
+        "regen": {
+            "name": "Regen Pemburu",
+            "description": "Ketika Anda diserang, Anda mendapatkan regenerasi dengan mengorbankan rasa lapar",
+            "lore1": "Dapatkan regenerasi pasif saat diserang",
+            "lore2": "x Tumpukan regenerasi selama 3 detik saat terkena",
+            "lore3": "x Tumpukan rasa lapar",
+            "lore4": "Durasi dan pengganda tumpukan rasa lapar.",
+            "lore5": "Pengganda tumpukan regenerasi, bukan durasinya."
+        },
+        "resistance": {
+            "name": "Resistensi Pemburu",
+            "description": "Ketika Anda diserang, Anda mendapatkan resistensi dengan mengorbankan rasa lapar",
+            "lore1": "Dapatkan resistensi pasif saat diserang",
+            "lore2": "x Tumpukan resistensi selama 3 detik saat terkena",
+            "lore3": "x Tumpukan rasa lapar",
+            "lore4": "Durasi dan pengganda tumpukan rasa lapar.",
+            "lore5": "Pengganda tumpukan resistensi, bukan durasinya."
+        },
+        "speed": {
+            "name": "Kecepatan Pemburu",
+            "description": "Ketika Anda diserang, Anda mendapatkan kecepatan dengan mengorbankan rasa lapar",
+            "lore1": "Dapatkan kecepatan pasif saat diserang",
+            "lore2": "x Tumpukan kecepatan selama 3 detik saat terkena",
+            "lore3": "x Tumpukan rasa lapar",
+            "lore4": "Durasi dan pengganda tumpukan rasa lapar.",
+            "lore5": "Pengganda tumpukan kecepatan, bukan durasinya."
+        },
+        "strength": {
+            "name": "Kekuatan Pemburu",
+            "description": "Ketika Anda diserang, Anda mendapatkan kekuatan dengan mengorbankan rasa lapar",
+            "lore1": "Dapatkan kekuatan pasif saat diserang",
+            "lore2": "x Tumpukan kekuatan selama 3 detik saat terkena",
+            "lore3": "x Tumpukan rasa lapar",
+            "lore4": "Durasi dan pengganda tumpukan rasa lapar.",
+            "lore5": "Pengganda tumpukan kekuatan, bukan durasinya."
+        }
+    },
+    "nether": {
+        "skulltoss": {
+            "name": "Lempar Tengkorak Wither",
+            "description1": "Lepaskan kekuatan Wither dalam dirimu dengan menggunakan",
+            "description2": "kepala seseorang",
+            "lore1": "Detik jeda antara lemparan tengkorak.",
+            "lore2": "Menggunakan Tengkorak Wither: Lempar sebuah",
+            "lore3": "Tengkorak Wither",
+            "lore4": "meledak saat terkena."
+        },
+        "witherresist": {
+            "name": "Resistensi Wither",
+            "description": "Menahan efek Wither dengan kekuatan Netherite.",
+            "lore1": "persentase untuk menolak efek wither (per bagian).",
+            "lore2": "Pasif: Mengenakan Armor Netherite memiliki kemungkinan untuk menolak",
+            "lore3": "efek wither."
+        },
+        "fireresist": {
+            "name": "Resistensi Api",
+            "description": "Menahan api dengan mengeraskan kulit.",
+            "lore1": "persentase untuk menolak efek terbakar!"
+        }
+    },
+    "pickaxe": {
+        "autosmelt": {
+            "name": "Smelt Otomatis",
+            "description": "Memungkinkan Anda untuk melebur bijih Vanilla yang ditambang",
+            "lore1": "Bijih yang dapat dilebur akan dilebur otomatis",
+            "lore2": "% peluang untuk tambahan"
+        },
+        "chisel": {
+            "name": "Pahat Bijih",
+            "description": "Klik kanan pada Bijih untuk mengeluarkan lebih banyak bijih dengan biaya daya tahan alat yang besar.",
+            "lore1": "Peluang untuk Mendapatkan Tambahan",
+            "lore2": "Kerusakan Alat"
+        },
+        "droptoinventory": {
+            "name": "Jatuhkan Ke Inventaris",
+            "description": "Ketika Anda menghancurkan blok, itemnya akan langsung masuk ke inventaris Anda",
+            "lore1": "Setiap kali item dijatuhkan dari blok yang Anda hancurkan, item tersebut akan langsung masuk ke inventaris Anda jika memungkinkan."
+        },
+        "veinminer": {
+            "name": "Penambang Serangkaian Bijih",
+            "description": "Memungkinkan Anda untuk menghancurkan blok dalam Serangkaian/Bundel bijih Vanilla",
+            "lore1": "Berlutut dan tambang BIJIH",
+            "lore2": "jangkauan penambangan serangkaian",
+            "lore3": "Kemampuan ini TIDAK menggabungkan semua drop!"
+        }
+    },
+    "ranged": {
+        "arrowrecovery": {
+            "name": "Pemulihan Panah",
+            "description": "Pulihkan panah setelah Anda membunuh musuh.",
+            "lore1": "Peluang Memulihkan Panah pada Serangan/Bunuh",
+            "lore2": "Peluang: "
+        },
+        "webshot": {
+            "name": "Jaring Snare",
+            "description": "Mengelilingi target dengan jaring laba-laba saat Anda mengenai mereka!",
+            "lore1": "8 Jaring di sekitar Bola Salju, dan lempar!",
+            "lore2": "detik durasi sangkar, kira-kira."
+        },
+        "forceshot": {
+            "name": "Tembakan Kuat",
+            "description": "Tembakkan proyektil lebih jauh, lebih cepat!",
+            "advancementname": "Tembakan Jauh",
+            "advancementlore": "Mendaratkan tembakan dari jarak lebih dari 30 blok!",
+            "lore1": "Kecepatan Proyektil"
+        },
+        "lungeshot": {
+            "name": "Tembakan Lompat",
+            "description": "Saat jatuh, panah Anda akan melempar Anda ke arah acak",
+            "lore1": "Kecepatan Ledakan Acak"
+        },
+        "arrowpiercing": {
+            "name": "Panah Menembus",
+            "description": "Menambahkan Kemampuan Menembus pada proyektil! Tembus target!",
+            "lore1": "Jumlah Target Tembus"
+        }
+    },
+    "rift": {
+        "remoteaccess": {
+            "name": "Akses Jarak Jauh",
+            "description": "Tarik dari ketiadaan, dan akses wadah yang ditandai.",
+            "lore1": "Mutiara Ender + Kompas = Portkey Relik",
+            "lore2": "Item ini memungkinkan Anda mengakses wadah dari jarak jauh",
+            "lore3": "Setelah dibuat, lihat item untuk melihat cara penggunaan",
+            "notcontainer": "Itu bukan wadah"
+        },
+        "blink": {
+            "name": "Kedipan Celah",
+            "description": "Teleportasi jarak dekat instan, hanya dengan sekejap!",
+            "lore1": "Blok pada kedipan (2x Vertikal)",
+            "lore2": "Saat Berlari: Tekan lompat dua kali untuk",
+            "lore3": "Berkedip"
+        },
+        "chest": {
+            "name": "Enderchest Mudah",
+            "description": "Buka enderchest dengan Klik kiri sambil memegangnya di tangan Anda.",
+            "lore1": "Klik Enderchest di tangan Anda untuk membukanya (Jangan letakkan saja)"
+        },
+        "descent": {
+            "name": "Anti-Levitation",
+            "description": "Apakah kamu lelah terjebak di udara? Ini adalah keterampilan untukmu!",
+            "lore1": "Cukup tekan Sneak untuk turun, dan kamu akan jatuh dengan kecepatan lebih lambat dari normal!",
+            "lore2": "Cooldown:"
+        },
+        "gate": {
+            "name": "Gerbang Rift",
+            "description": "Teleportasi ke lokasi yang ditandai.",
+            "lore1": "KERAJINAN: Emerald + Pecahan Amethyst + Ender Pearl",
+            "lore2": "Baca sebelum digunakan!",
+            "lore3": "5 detik penundaan,",
+            "lore4": "kamu bisa mati saat dalam animasi ini"
+        },
+        "resist": {
+            "name": "Resistensi Rift",
+            "description": "Dapatkan Resistensi saat menggunakan Item & Kemampuan Ender",
+            "lore1": "+ Pasif: Memberikan resistensi saat kamu menggunakan kemampuan rift atau Item Ender",
+            "lore2": "TIDAK termasuk Enderchest Portabel, hanya hal-hal yang dapat kamu konsumsi"
+        },
+        "visage": {
+            "name": "Wajah Rift",
+            "description": "Mencegah Endermen menjadi agresif jika kamu memiliki Enderpearls di inventarismu.",
+            "lore1": "Endermen tidak akan menjadi agresif jika kamu memiliki Enderpearls di inventarismu."
+        }
+    },
+    "seaborn": {
+        "oxygen": {
+            "name": "Tangki Oksigen Organik",
+            "description": "Simpan lebih banyak oksigen di paru-paru kecilmu!",
+            "lore1": "Peningkatan Kapasitas Oksigen"
+        },
+        "fishersfantasy": {
+            "name": "Fantasi Pemancing",
+            "description": "Dapatkan lebih banyak XP dari memancing, dan dapatkan lebih banyak ikan!",
+            "lore1": "Untuk setiap level, ada peluang untuk mendapatkan lebih banyak XP dan ikan!"
+        },
+        "haste": {
+            "name": "Penambang Penyu",
+            "description": "Saat menambang di bawah air, kamu mendapatkan kecepatan!",
+            "lore1": "Kecepatan 3 diterapkan di bawah air saat menambang (terkumpul dengan AquaAffinity) setelah efek bernapas di airmu hilang!"
+        },
+        "nightvision": {
+            "name": "Penglihatan Penyu",
+            "description": "Saat di bawah air, kamu mendapatkan Penglihatan Malam",
+            "lore1": "Cukup dapatkan Penglihatan Malam saat di bawah air setelah efek bernapas di airmu hilang!"
+        },
+        "dolphingrace": {
+            "name": "Keanggunan Dolphin",
+            "description": "Berenang seperti lumba-lumba, tanpa lumba-lumba",
+            "lore1": "+ Pasif: dapatkan ",
+            "lore2": "x kecepatan (keanggunan lumba-lumba)",
+            "lore3": "teknologi presisi Jerman - tunggu, itu tidak benar... Tidak Kompatibel dengan Depth Strider"
+        }
+    },
+    "stealth": {
+        "ghostarmor": {
+            "name": "Armor Hantu",
+            "description": "Armor lambat saat tidak menerima damage, Bertahan untuk 1 hit",
+            "lore1": "Armor Maksimal",
+            "lore2": "Kecepatan"
+        },
+        "nightvision": {
+            "name": "Penglihatan Siluman",
+            "description": "Dapatkan penglihatan malam saat mengendap",
+            "lore1": "Dapatkan lonjakan ",
+            "lore2": "penglihatan malam",
+            "lore3": "saat mengendap"
+        },
+        "snatch": {
+            "name": "Ambil Barang",
+            "description": "Ambil barang yang jatuh secara instan saat mengendap!",
+            "lore1": "Radius Ambil"
+        },
+        "speed": {
+            "name": "Kecepatan Mengendap",
+            "description": "Dapatkan kecepatan saat mengendap",
+            "lore1": "Kecepatan Mengendap"
+        }
+    },
+    "sword": {
+        "machete": {
+            "name": "Machete",
+            "description": "Potong dedaunan dengan mudah!",
+            "lore1": "Radius Sayatan",
+            "lore2": "Cooldown Pahat",
+            "lore3": "Keretakan Alat"
+        },
+        "bloodyblade": {
+            "name": "Pisau Berdarah",
+            "description": "Serangan dengan pedangmu menyebabkan Pendarahan!",
+            "lore1": "Menyerang makhluk hidup dengan pedangmu menyebabkan Pendarahan",
+            "lore2": "Durasi Pendarahan",
+            "lore3": "Cooldown Pendarahan"
+        },
+        "poisonedblade": {
+            "name": "Pisau Beracun",
+            "description": "Serangan dengan pedangmu menyebabkan Racun!",
+            "lore1": "Menyerang makhluk hidup dengan pedangmu menyebabkan Racun",
+            "lore2": "Durasi Racun",
+            "lore3": "Cooldown Racun"
+        }
+    },
+    "taming": {
+        "damage": {
+            "name": "Kerusakan Tame",
+            "description": "Tingkatkan kerusakan hewan peliharaanmu.",
+            "lore1": "Kerusakan Meningkat"
+        },
+        "health": {
+            "name": "Kesehatan Tame",
+            "description": "Tingkatkan kesehatan hewan peliharaanmu.",
+            "lore1": "Kesehatan Meningkat"
+        },
+        "regeneration": {
+            "name": "Regenerasi Tame",
+            "description": "Tingkatkan regenerasi hewan peliharaanmu.",
+            "lore1": "HP/detik"
+        }
+    },
+    "tragoul": {
+        "thorns": {
+            "name": "Duri",
+            "description": "Pantulkan kerusakan kembali kepada penyerangmu!",
+            "lore1": "Kerusakan dibalas saat terkena"
+        },
+        "globe": {
+            "name": "Kubah Rasa Sakit",
+            "description": "Bagi kerusakan yang kamu lakukan berdasarkan jumlah musuh di sekitarmu!",
+            "lore1": "Semakin banyak musuh di sekitarmu, semakin sedikit kerusakan yang kamu lakukan kepada masing-masing dari mereka",
+            "lore2": "Jangkauan: ",
+            "lore3": "Kerusakan Tambahan ke semua Entitas: "
+        },
+        "healing": {
+            "name": "Keinginan Rasa Sakit",
+            "description": "Dapatkan kembali kesehatan berdasarkan kerusakan yang kamu lakukan!",
+            "lore1": "Menyakiti makhluk tidak pernah terasa sebaik ini! Sembuh dari Kerusakan yang Dilakukan",
+            "lore2": "Ada jendela kerusakan 3 detik, untuk penyembuhan dan cooldown 1 detik",
+            "lore3": "Penyembuhan per Persentase Kerusakan: "
+        },
+        "lance": {
+            "name": "Tombak Mayat",
+            "description": "Membunuh musuh atau memiliki kemampuan membunuh musuh, memunculkan tombak yang memberikan kerusakan kepada musuh terdekat!",
+            "lore1": "Tombak akan mengejar dari apa pun yang kamu bunuh, DAN jika kemampuan ini membunuh musuh.",
+            "lore2": "Korbankan sebagian dari hidupmu untuk menciptakan tombak (ini bisa membunuhmu)",
+            "lore3": "Tombak Maks: 1 + "
+        }
+    },
+    "unarmed": {
+        "glasscannon": {
+            "name": "Meriam Kaca",
+            "description": "Bonus Kerusakan Tidak Bersenjata semakin rendah nilai armor-mu",
+            "lore1": "x Kerusakan pada 0 armor",
+            "lore2": "Kerusakan Bonus Per Level"
+        },
+        "power": {
+            "name": "Kekuatan Tidak Bersenjata",
+            "description": "Meningkatkan Kerusakan Tidak Bersenjata",
+            "lore1": "Kerusakan"
+        },
+        "suckerpunch": {
+            "name": "Pukulan Ceburan",
+            "description": "Pukulan sprint, tapi lebih mematikan.",
+            "lore1": "Kerusakan",
+            "lore2": "Kerusakan meningkat seiring dengan kecepatanmu saat memukul"
+        }
+    }
+}
